@@ -1,3 +1,4 @@
+#!/bin/bash
 yum update -y
 sudo yum install -y jenkins java-11-openjdk-devel
 sudo yum -y install wget
